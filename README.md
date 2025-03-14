@@ -2,7 +2,7 @@
 
 🔹 Network & Computer Security Technician at IMSET Tunis <br>
 🔹 Skilled in hardware & software maintenance, installation, and configuration <br>
-🔹 Currently developing a 2D Unity game to teach cybersecurity basics through interactive mini-games <br>
+🔹 Currently developing a 2D GODOT game to teach cybersecurity basics through interactive mini-games <br>
 
 🛡️ Exploring ethical hacking & secure coding <br>
 🧶 I also help my sister with Knotsy, a brand for personalized crochet bags <br>
