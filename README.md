@@ -10,7 +10,6 @@
 
 📫 Let's connect: <br>
 📷 _atbubbles on Instagram [instagram] (https://www.instagram.com/_atbubbles/) <br>
-📷 visit kno.tsy for crochet bags! [instagram] (https://www.instagram.com/kno.tsy/) <br>
 
 
 # 💻 Tech Stack:
