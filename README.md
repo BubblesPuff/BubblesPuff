@@ -2,7 +2,6 @@
 
 🔹 Network & Computer Security Technician at IMSET Tunis <br>
 🔹 Skilled in hardware & software maintenance, installation, and configuration <br>
-🔹 Currently developing a 2D GODOT game to teach cybersecurity basics through interactive mini-games <br>
 
 🛡️ Exploring ethical hacking & secure coding <br>
 🧶 I also help my sister with Knotsy, a brand for personalized crochet bags <br>
@@ -33,4 +32,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=BubblesPuff&icon=7&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
